@@ -8,4 +8,3 @@ vamos a la estancia que acabamos de crear y nos iremos a crear funciones, en ese
 
 luego nos vamos al codigo y prueba y creamos el recurso
 
-una vez ya creado el recurso entramos y no nos aparece la vista normal
