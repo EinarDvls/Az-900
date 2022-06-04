@@ -14,6 +14,6 @@ ya despues de colocar todo eso se coloca que imagen necesita y el tamaño, despu
 (https://github.com/EinarDvls/Az-900/blob/main/imagenes/creando%20primer%20maquina%20virtual.PNG)
 
 dejamos que se cree la maquina virtual 
-(C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual2.PNG)
+(https://github.com/EinarDvls/Az-900/blob/main/imagenes/creando%20primer%20maquina%20virtual2.PNG)
 
-una vez creadas las dos de la misma manera se procede a entrar a la primera 
+una vez creadas las dos de la misma manera 
