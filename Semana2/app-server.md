@@ -6,4 +6,4 @@ damos click en revisar y crear y listo
 
 ya despues de crear el app server nos iremos al centro de implementacion y colocaremos muestra cuenta de github, pondremos nuestro usuario, que repositorio queremos usar (previamente tendriamos nuestra pagina desarrollada en github) y el archivo raiz y le damos a guardar.
 
-Una vez guardado nos dirigimos al repositorio de Github donde tienes tu pagina y la actualizas para que se pueda subir a la nube 
+Una vez guardado nos dirigimos al repositorio de Github donde tienes tu pagina y la actualizas para que se pueda subir a la nube y listo
