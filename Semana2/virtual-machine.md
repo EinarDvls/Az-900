@@ -10,8 +10,8 @@ Todo recurso de Azure necesita para funcionar:
 - Region
 
 ya despues de colocar todo eso se coloca que imagen necesita y el tamaño, despues se le coloca nombre de usuario y contraseña y se click en revisar y crear 
-
-(C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual.PNG)
+[primer maquina virtual]
+(https://github.com/EinarDvls/Az-900/blob/main/imagenes/creando%20primer%20maquina%20virtual.PNG)
 
 dejamos que se cree la maquina virtual 
 (C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual2.PNG)
