@@ -10,12 +10,19 @@ Todo recurso de Azure necesita para funcionar:
 - Region
 
 ya despues de colocar todo eso se coloca que imagen necesita y el tamaño, despues se le coloca nombre de usuario y contraseña y se click en revisar y crear 
+[primer maquina virtual]
+(https://github.com/EinarDvls/Az-900/blob/main/imagenes/creando%20primer%20maquina%20virtual.PNG)
 
-(C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual.PNG)
-
+<<<<<<< HEAD
 dejamos que se cree la maquina virtual tiene que aparecerte en la misma region y o en la misma red 
 (C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual2.PNG)
 
 Una vez creadas las dos maquinas vituales, los que tenemos windows vamos a microsoft store y buscamos la appp llamada Escritorio Remoto de Microsoft y lo descargamos
 
 ya una vez creadas las dos maquinas virtuales iremos a alguna y le daremos en conectar y sera en RDP y le damos en descargar y se descargara la maquina virtual, ya una vez descargado la abrimos con el Escritorio Remoto de MIcrosoft que descargamos antes y listo ya estamos dentro de una maquina virtual 
+=======
+dejamos que se cree la maquina virtual 
+(https://github.com/EinarDvls/Az-900/blob/main/imagenes/creando%20primer%20maquina%20virtual2.PNG)
+
+una vez creadas las dos de la misma manera 
+>>>>>>> ddedb8d8ca8ec86df9382e81e63445552afe8cc2
