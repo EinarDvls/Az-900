@@ -13,7 +13,9 @@ ya despues de colocar todo eso se coloca que imagen necesita y el tamaño, despu
 
 (C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual.PNG)
 
-dejamos que se cree la maquina virtual 
+dejamos que se cree la maquina virtual tiene que aparecerte en la misma region y o en la misma red 
 (C:\Users\Hp\Documents\Az-900\imagenes\creando primer maquina virtual2.PNG)
 
-una vez creadas las dos de la misma manera se procede a entrar a la primera 
+Una vez creadas las dos maquinas vituales, los que tenemos windows vamos a microsoft store y buscamos la appp llamada Escritorio Remoto de Microsoft y lo descargamos
+
+ya una vez creadas las dos maquinas virtuales iremos a alguna y le daremos en conectar y sera en RDP y le damos en descargar y se descargara la maquina virtual, ya una vez descargado la abrimos con el Escritorio Remoto de MIcrosoft que descargamos antes y listo ya estamos dentro de una maquina virtual 
